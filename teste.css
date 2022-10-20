@@ -1,0 +1,76 @@
+p {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.919);
+    font-size: 24px;
+}
+
+h1 {
+    color: black;
+    background-color: tomato;
+}
+
+.orange {
+    color: black;
+    background-color: Orange;
+
+}
+
+.dodgerblue{
+    color: black;
+    background-color:DodgerBlue;
+
+}
+ .MediumSeaGreen{
+    color: black;
+    background-color:MediumSeaGreen;
+ }
+ .Gray{
+    color:black;
+    background-color:Gray;
+ }
+ .slateblue{
+    color:black;
+    background-color:SlateBlue;
+}
+.violeta{
+    color: black;
+    background-color:Violet;
+
+}
+ .para{
+    background-color: lightpink;
+ }
+ .para2{
+    color: lightpink;
+ }
+
+ .borda{
+    border: 2px solid Tomato;
+ }
+ .borda2{
+    border: 2px solid DodgerBlue;
+ }
+
+ .borda3{
+    border: 2px solid lightpink;
+ }
+
+ .rgbtomatinho{
+    background-color: rgb(255, 99, 71);
+ }
+ .ftomato{
+    background-color: #ff6347;
+ }
+ .htomato{
+    background-color: hsl(9, 100%, 64%);
+ }
+
+ .hhtomato{
+    background-color: rgba(255, 99, 71, 0.5);
+ }
+
+ .rrtomato{
+    background-color: hsla(9, 100%, 64%, 0.5);
+ }
+
+ 
